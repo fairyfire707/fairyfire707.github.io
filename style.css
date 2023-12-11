@@ -1,0 +1,28 @@
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://cdn.stocksnap.io/img-thumbs/960w/bread-food_46VCPZQ87W.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+;
+}
+
+.banner-content {
+    height: 100%;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.carousel-contain{
+    background-color: #323232;
+    height: 500px;
+}
+
+/* .bordered{
+    border: 1px solid white;
+    width: 300px;
+} */
+
